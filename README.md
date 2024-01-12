@@ -5,6 +5,12 @@ Check out my projects. If you have any questions, ideas, or collaboration opport
 
 Check out my [personal webpage](https://www.michaeldemidenko.com) for more details.
 
+![Let's Do This](https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif)
+
+
+
+
+
 
 <!--
 **demidenm/demidenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
