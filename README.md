@@ -5,7 +5,7 @@ Check out my projects. If you have any questions, ideas, or collaboration opport
 
 Check out my [personal webpage](https://www.michaeldemidenko.com) for more details.
 
-![Let's Do This](https://media.giphy.com/media/BpGWitbFZflfSUYuZ9)
+![Let's Do This](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJsemI5djdzZXIzdXp0M2d5NW51OWExNWRkc2YwNDJwcDkzY2p5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BpGWitbFZflfSUYuZ9/giphy.gif)
 
 
 
