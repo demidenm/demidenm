@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Michael Demidenko, PhD, a NIDA funded Research Fellow at Stanford University, collaborating with Dr. Russell Poldrack. My expertise lies in the field of task fMRI, measurement, and neurodevelopment. As a dedicated researcher, I am passionate about advancing our understanding of these domains through rigorous scientific exploration.
-
-Feel free to explore the projects and contributions documented here, reflecting my commitment to pushing the boundaries of knowledge in the realm of neuroscience. If you have any questions, ideas, or collaboration opportunities, don't hesitate to reach out. Let's connect and explore the fascinating world of brain research together! 🧠✨
+I'm Michael Demidenko, PhD, a NIDA funded Research Fellow at Stanford University, collaborating with Dr. Russell Poldrack. My expertise lies in the field of task fMRI, measurement, and neurodevelopment. 
+Check out my projects. If you have any questions, ideas, or collaboration opportunities, don't hesitate to reach out. 🧠✨
 
 Check out my [personal webpage](https://www.michaeldemidenko.com) for more details.
 
