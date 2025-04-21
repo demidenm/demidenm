@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs at 00:00 UTC every day
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 0 */5 * *"  # Run every 5 days at midnight UTC
+  workflow_dispatch:  # manual triggering
 
 jobs:
   build:
@@ -12,7 +12,7 @@ jobs:
       contents: write
     
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3 # required version for action to work
       
       - uses: Platane/snk@v3
         with:
@@ -23,7 +23,7 @@ jobs:
             dist/github-contribution-grid-snake.gif
       
       - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v3 # required version for action to work
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
