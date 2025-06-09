@@ -11,7 +11,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-**Staff Research Scientist** at Stanford University with expertise in data science, modeling building and big data engineering. Specialized in building scalable data pipelines, statistical models and automated workflows for 100+ TB datasets.
+**Staff Research Scientist** at Stanford University with expertise in data science, modeling building and big data engineering. Experienced in survey, behavioral and biological data analysis. Specialized in building scalable data pipelines, measurement assessment, statistical models and automated workflows for 100+ TB datasets.
 
 ## Technical Skills
 
