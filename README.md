@@ -34,7 +34,7 @@
 
 **[OpenNeuro GLM FitLins](https://github.com/demidenm/openneuro_glmfitlins)** - Automated analysis pipeline making 500+ task fMRI datasets more accessible, reducing manual resource costs by 70%+ through containerized simplified downloading/filtering, data reshaping, statistical model building and cloud computing.
 
-**[ABCD-BIDS E-Prime Processor](https://github.com/demidenm/abcd_bids_eprime)** - Automated workflow for the largest consortium-led study in the United States, processing behavioral data from 20,000+ subjects across 20+ sites. Converts E-Prime files to fMRI-ready format with comprehensive quality control at the subject- and group-level.
+**[ABCD-BIDS E-Prime Processor](https://github.com/demidenm/abcc_datapre)** - Automated workflow for the largest consortium-led study in the United States, processing behavioral data from 20,000+ subjects across 20+ sites. Converts E-Prime files to fMRI-ready format with comprehensive quality control at the subject- and group-level.
 
 **[HCP-YA Preprocessing](https://github.com/demidenm/hcpya_preprocess)** - End-to-end processing workflow for behavioral and fMRI data for one of the foundational MRI studies in the US. Processing 1000+ subjects, 28TB dataset, and generating BIDS-compliant descriptives and fitting an HCP and alternative statistical model to the task-based timeseries data.
 
