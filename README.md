@@ -1,6 +1,8 @@
 ### 👋
 
-# Michael Demidenko, PhD - Data Scientist & Quantitative Researcher
+# Michael Demidenko, PhD 
+
+Cognitive Neuroscientist, Staff Quantitative & Data Science Researcher
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/michael-demidenko/">
@@ -11,13 +13,16 @@
   </a>&nbsp;&nbsp;
 </p>
 
-**Staff Research Scientist** at Stanford University with expertise in data science, modeling building and big data engineering. Experienced in survey, behavioral and biological data analysis. Specialized in building scalable data pipelines, measurement assessment, statistical models and automated workflows for 100+ TB datasets.
+
+**Staff Research/Data Scientist** (Stanford University): With expertise in data science, model building and big data engineering. Experienced in survey, behavioral and biological (timeseries) data analysis. Specialized in building scalable data pipelines, measurement assessment, statistical models and automated workflows for 100+ TB datasets.
 
 ## Technical Skills
 
-**Languages:** Python, R, Bash
+**Research**: Research Design, Experimentation, Data-driven solution, Hypothesis-testing, Survey/Behavioral Analyses, Measurement quality evaluation
 
-**Statistical Methods:** EFA, PCA, SEM, Linear/Logistic/Ordinal/Multinomial/Hierarchical Regression, Time Series Analysis, Dimensionality Reduction, A/B Testing, Predictive Modeling
+**Languages:** Python, R, Linux/Bash, SQL
+
+**Statistical Methods:** Exploratory Factor Analysis, Principal Component Analysis, Structural Equation Modeling, Linear/Logistic/Ordinal/Multinomial/Hierarchical Regression, Time Series Analysis, Dimensionality Reduction, A/B Testing, Predictive Modeling, Lasso/Ridge Regression, XGBoost, Random Forest
 
 **Python Stack:** pandas, numpy, scipy, scikit-learn, statsmodels, matplotlib, seaborn, etc
 
@@ -28,7 +33,7 @@
 **Data Engineering:** ETL pipelines, Git/GitHub, automated workflows, data validation/quality control  
 
 
-## Key Projects
+## Highlighted Projects
 
 **[PyReliMRI](https://github.com/demidenm/PyReliMRI)** - Python package for statistical reliability analysis in large-scale datasets. 
 
@@ -45,7 +50,7 @@
 - Published 35+ peer-reviewed research products
 - Created 5+ open-source packages with openly distribution code code
 - Contributed with data engineering and statistical knowledge to a large-scale ($500M+) NIH-funded study
-
+- Working with ambiguous problems & highly complex data
 
 For more details, check out my [personal webpage](https://www.michaeldemidenko.com)
 
