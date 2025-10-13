@@ -2,7 +2,7 @@
 
 # Michael Demidenko, PhD 
 
-Cognitive Neuroscientist, Staff Quantitative & Data Science Researcher
+Senior Data Scientist & former Cognitive Neuroscientist
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/michael-demidenko/">
@@ -14,7 +14,11 @@ Cognitive Neuroscientist, Staff Quantitative & Data Science Researcher
 </p>
 
 
-**Staff Research/Data Scientist** (Stanford University): With expertise in data science, model building and big data engineering. Experienced in survey, behavioral and biological (timeseries) data analysis. Specialized in building scalable data pipelines, measurement assessment, statistical models and automated workflows for 100+ TB datasets.
+**Research/Data Science** 
+
+Current: Senior Data Scientist with expertise in data science, predictive modeling, agentic frameworks, model building and big data engineering. Experienced in survey, finance, behavioral and biological (timeseries) data analysis. Specialized in building scalable data pipelines, measurement assessment, statistical models and automated workflows for 100+ TB datasets.
+
+Former: Cognitive Neuroscientist Researcher at Stanford University. 
 
 ## Technical Skills
 
